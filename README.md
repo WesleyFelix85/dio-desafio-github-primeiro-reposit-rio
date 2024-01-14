@@ -1,4 +1,4 @@
- # Repositorio do Desafio de Projeto sobre Git/GitHub da Dio
+ # Repositorio do Desafio de Projeto sobre Git/GitHub Dio
 Repositório criado para reforçar o aprendizado do uso da plataforma Git/GitHub..
 
 🔎 Links úteis
